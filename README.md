@@ -20,6 +20,6 @@ rooms public address system.
 
 There are two versions of **BBB Microphone**
 
-* `bbb_mic_console_static.py` Which is run in a console window and its volume fixed.
+* `bbb_mic_console_static.py` Which is run in a console window and has its volume fixed.
 
 * `bbb_mic_gui_dynamic.py` Which is a gui app that has widgets to adjust the volume of the microphone or to mute/unmute it.
