@@ -7,9 +7,9 @@ the audio that is output from the presenters PC speakers and then leaks back
 into their microphone.
 
 When using the Firefox browser, and enabling your microphone, then you get 
-the choice of a *Microphone*, or *Monitoring the system audio*. Select the
-*Monitoring the system audio*. When you run an audio application then the BBB
-audience will hear it.
+the choice of a *Microphone*, for example, *Webcam C170 Mono*, or *Monitoring of Built-in Audio Analog Stereo*. Select the
+*Monitoring of Built-in AudioAnalog Stereo*. When you run an audio application, for example `$ aply my_music.wav` then the BBB
+audience will hear this music.
 
 When running either of these *BBB Microphone* programs then your microphone will be 
 added to the system audio.
